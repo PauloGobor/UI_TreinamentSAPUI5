@@ -1,2 +1,2 @@
 # UI_TreinamentSAPUI5
-TReienamento OoenSAP
+Treienamento OpenSAP
